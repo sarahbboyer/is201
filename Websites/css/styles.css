@@ -1,0 +1,50 @@
+
+body {
+    background-color: pink ;
+    color: darkblue; /*test color*/;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{ 
+    font-family: 'Courier New', courier, monospace;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    background-color: blueviolet;
+    opacity:80%
+
+}
+a{
+        color: aqua;
+}
+a:visited{
+    color:green
+}
+img{
+    border: 2px solid green;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;  
+}
+.imagcenter{
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-style: italic;
+    font-family: 'Franklin Gothic Mediium", 'Arial Narrow', 'Arial', sans-serif';
+    text-align: center;
+    font-size: larger;
+    color: brown;
+
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration:underline;
+}

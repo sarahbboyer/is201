@@ -1,0 +1,21 @@
+body{
+    font-family:'Comic Sans MS';
+}
+.site-heading-lower
+body{
+    font-family:'Comic Sans MS';
+}
+.mb-3{
+    font-family: 'Comic Sans MS';
+    color: yellow !important;
+
+}
+.notyellow{
+    color:black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0,0,0.5);
+}
+.section-heading-lower{
+    box-shadow: 15px 15px 20px rgba(0,0,0.5);
+}
